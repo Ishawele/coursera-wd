@@ -1,6 +1,12 @@
 # coursera-wd
-coursera html css js repository 
-<br>
-author-isha wele
-<br>
-date 23/9/23
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
+
+  
